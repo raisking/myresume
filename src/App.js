@@ -16,10 +16,10 @@ class App extends Component {
       <h1 class="mb-0">Prakash
         <span class="text-primary">Rai</span>
       </h1>
-      <div class="subheading mb-5">3542 Berry Street · Cheyenne Wells, CO 80810 · (317) 585-8468 ·
-        <a href="mailto:name@email.com">name@email.com</a>
+      <div class="subheading mb-5">FULL STACK SOFTWARE DEVELOPER <br />
+        <a href="mailto:name@email.com">raiprakas007@gmail.com</a>
       </div>
-      <p class="mb-5">I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.</p>
+      <p class="mb-5">I am a full-stack software developer based in Atlanta, Georgia. I am a graduate of Kennesaw State University seeking a challenging career in which I can hone my skills, gain a quality experience, build a passion and learn new technologies. I am exceptionally creative and dependable web developer, with years of comprehensive and progressive experience in web development. Encompassing simple bug fixing with long lines of code, building and maintaining databases, writing code and developing web applications, web design and online applications using various programming languages and design tool. Able to motivate development team, identify and remove impediments to turning out quality software applications for clients. Excellent ability to read the code and suggest changes to make the finished project bug free. Articulate communicator; accustomed to developing and maintaining positive relationships with all levels of individuals of diverse backgrounds.</p>
       <ul class="list-inline list-social-icons mb-0">
         <li class="list-inline-item">
           <a href="#">
@@ -113,28 +113,27 @@ class App extends Component {
     <div class="my-auto">
       <h2 class="mb-5">Education</h2>
 
-      <div class="resume-item d-flex flex-column flex-md-row mb-5">
+      <div class="resume-item d-flex flex-column flex-md-row">
         <div class="resume-content mr-auto">
-          <h3 class="mb-0">University of Colorado Boulder</h3>
-          <div class="subheading mb-3">Bachelor of Science</div>
-          <div>Computer Science - Web Development Track</div>
-          <p>GPA: 3.23</p>
+          <h3 class="mb-0">General Assembly</h3>
+          <div class="subheading mb-3">Certification</div>
+          <div>Web Development Immersive</div>
         </div>
         <div class="resume-date text-md-right">
-          <span class="text-primary">August 2006 - May 2010</span>
+          <span class="text-primary">August 2017 -  Nov 2017</span>
+        </div>
+      </div>
+      <div class="resume-item d-flex flex-column flex-md-row mb-5">
+        <div class="resume-content mr-auto">
+          <h3 class="mb-0">Kennesaw State University</h3>
+          <div class="subheading mb-3">Bachelor of Science</div>
+          <div>Information Technology</div>
+        </div>
+        <div class="resume-date text-md-right">
+          <span class="text-primary">August 2014 - May 2017</span>
         </div>
       </div>
 
-      <div class="resume-item d-flex flex-column flex-md-row">
-        <div class="resume-content mr-auto">
-          <h3 class="mb-0">James Buchanan High School</h3>
-          <div class="subheading mb-3">Technology Magnet Program</div>
-          <p>GPA: 3.56</p>
-        </div>
-        <div class="resume-date text-md-right">
-          <span class="text-primary">August 2002 - May 2006</span>
-        </div>
-      </div>
 
     </div>
   </section>
