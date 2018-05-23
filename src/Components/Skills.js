@@ -25,19 +25,19 @@ class Skills extends Component {
                   <i class="devicons devicons-sass"></i>
                 </li>
                 <li class="list-inline-item">
-                  <i class="devicons devicons-less"></i>
+                  <i class="devicons devicons-java"></i>
                 </li>
                 <li class="list-inline-item">
                   <i class="devicons devicons-bootstrap"></i>
                 </li>
                 <li class="list-inline-item">
-                  <i class="devicons devicons-wordpress"></i>
+                  <i class="devicons devicons-react"></i>
                 </li>
                 <li class="list-inline-item">
-                  <i class="devicons devicons-grunt"></i>
+                  <i class="devicons devicons-express"></i>
                 </li>
                 <li class="list-inline-item">
-                  <i class="devicons devicons-gulp"></i>
+                <i class="devicons devicon-mongodb-plain colored"></i>
                 </li>
                 <li class="list-inline-item">
                   <i class="devicons devicons-npm"></i>
