@@ -37,11 +37,9 @@ class Skills extends Component {
                   <i class="devicons devicons-express"></i>
                 </li>
                 <li class="list-inline-item">
-                <i class="devicons devicon-mongodb-plain colored"></i>
-                </li>
-                <li class="list-inline-item">
                   <i class="devicons devicons-npm"></i>
                 </li>
+        
               </ul>
         
               <div class="subheading mb-3">Workflow</div>
